@@ -2,7 +2,6 @@ import streamlit as st
 from googleapiclient.discovery import build
 import pymongo as pg
 
-# To use it correctly, you need to import the datetime class from the datetime module
 from datetime import datetime
 import time
 
